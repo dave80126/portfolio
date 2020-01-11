@@ -5,9 +5,13 @@ phases:
     commands:
       - echo Nothing to do yet
 artifacts:
+  type: zip
   files:
     - index.html
     - favicon.icon
     - Clark_David_CV_do.pdf
     - styles/*
     - images/*
+runtime-versions:
+  docker: 18
+  nodejs: 8
