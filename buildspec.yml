@@ -1,0 +1,13 @@
+version: 0.1
+
+phases:
+  build:
+    commands:
+      - echo Nothing to do yet
+artifacts:
+  files:
+    - index.html
+    - favicon.icon
+    - Clark_David_CV_do.pdf
+    - styles/*
+    - images/*
