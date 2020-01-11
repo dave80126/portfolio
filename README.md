@@ -6,3 +6,8 @@ Personal portfolio using AWS and ReactJS.
 
 Git and github
 SSH
+Chocolatey
+HTML
+CSS
+Font Awesome
+Google Fonts
