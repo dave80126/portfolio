@@ -11,3 +11,6 @@ HTML
 CSS
 Font Awesome
 Google Fonts
+sns
+lambda
+iam
