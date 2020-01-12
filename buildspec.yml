@@ -11,7 +11,7 @@ artifacts:
   type: zip
   files:
     - index.html
-    - favicon.icon
+    - favicon.ico
     - Clark_David_CV_do.pdf
     - styles/*
     - images/*
