@@ -18,7 +18,7 @@
   </head>
   <body>
     <main>
-      <label>Name: <input type="text" name="name" value="" id="name"></label>
+      <label>Name: <input type="text" name="name" value="" id="name" /></label>
       <button id="submit_info">Click me!</button>
 
       <div class="" id="content">
@@ -45,7 +45,7 @@
 
         messageArea.className = "errorBox--hidden";
         contentArea.textContent = "";
-        
+
         let name = document.getElementById('name').value;
 
         if (name.length < 2) {
